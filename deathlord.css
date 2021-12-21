@@ -130,12 +130,12 @@ div.left {
 }
 
 .s-chat-message:nth-child(odd) {
-	background: rgba(193, 192, 187, 0.8) !important;
+	background-color: #290628 !important;
 	border: none !important;
 }
 
 .s-chat-message__pinned {
-	background: rgba(164, 111, 97, 0.8) !important;
+	background-color: #290628 !important;
 	color: #ECF0F1 !important;
 	border: none !important;
 }
@@ -150,7 +150,7 @@ div#chatMessageContainer {
 
 button#label_currentChannel {
 	border: none !important;
-	background: rgba(164, 111, 97, 0.8) !important;
+	background-color: #290628 !important;
 }
 
 h1 {
@@ -190,9 +190,9 @@ h3 {
 .top,
 .bottom,
 th {
-	background-color: #395756 !important;
+	background-color: #290628 !important;
 	color: #ECF0F1 !important;
-	border-radius: 10px;
+	border-radius: 5px;
 	font-family: 'Vibur', cursive;
 }
 
@@ -228,7 +228,7 @@ th {
 }
 
 .sub_menu {
-	background: rgba(227, 222, 210, 0.8) !important;
+	background-color: #290628 !important;
 }
 
 .sub_menu_item_selected {
@@ -258,7 +258,7 @@ a:hover {
 input,
 select,
 textarea {
-	background: rgba(227, 222, 210, 0.8) !important;
+	background-color: #290628 !important;
 	border: none !important;
 	border-radius: 15px;
 	box-shadow: none !important;
@@ -276,7 +276,7 @@ textarea {
 
 .Box1 {
 	float: left;
-	background-color: #9E7682;
+	background-color: #290628;
 	color: #393939;
 	padding: 15px;
 	border: 1px solid #d6d1cb;
@@ -296,7 +296,7 @@ textarea {
 
 .Box2 {
 	float: left;
-	background-color: #9E7682;
+	background-color: #290628;
 	color: #393939;
 	padding: 15px;
 	border: 1px solid #d6d1cb;
@@ -335,7 +335,7 @@ textarea {
 }
 
 .credit {
-	background-color: #395756;
+	background-color: #9E7682;
 	color: #ECF0F1;
 	padding: 10px;
 	border: none;
