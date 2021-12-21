@@ -190,7 +190,7 @@ h3 {
 .top,
 .bottom,
 th {
-	background: rgba(164, 111, 97, 0.8) !important;
+	background-color: #395756 !important;
 	color: #ECF0F1 !important;
 	border-radius: 10px;
 	font-family: 'Vibur', cursive;
@@ -276,7 +276,7 @@ textarea {
 
 .Box1 {
 	float: left;
-	background: rgba(138, 152, 137, 0.6);
+	background-color: #9E7682;
 	color: #393939;
 	padding: 15px;
 	border: 1px solid #d6d1cb;
@@ -296,7 +296,7 @@ textarea {
 
 .Box2 {
 	float: left;
-	background: rgba(138, 152, 137, 0.6);
+	background-color: #9E7682;
 	color: #393939;
 	padding: 15px;
 	border: 1px solid #d6d1cb;
@@ -316,7 +316,7 @@ textarea {
 
 .Box3 {
 	float: left;
-	background: rgba(138, 152, 137, 0.6);
+	background-color: #9E7682;
 	color: #393939;
 	padding: 15px;
 	border: 1px solid #d6d1cb;
