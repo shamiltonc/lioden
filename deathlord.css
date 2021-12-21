@@ -183,7 +183,8 @@ h3 {
 }
 
 .table {
-	background-color: #7EA16B;
+	background-color: #9E7682;
+	opacity: 0.5;
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 10px;
