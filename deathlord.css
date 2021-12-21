@@ -1,0 +1,385 @@
+/*
+  Lioden CSS by EchoLorien (#243975).
+  This code may NOT be altered, edited, or re-uploaded. 
+*/
+
+/* Colors
+#7EA16B Asaparagus
+#395756 Dark Slate Grey
+#9E7682 Mountbatten Pink
+#ECF0F1 Cultured
+#290628 Dark Purple
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+body {
+	background-color: #7EA16B;
+	font-family: 'Abel', sans-serif;
+	color: #ECF0F1;
+}
+
+.center.b {
+	color: #ECF0F1 !important;
+}
+
+.feature {
+	background-color: #290628 !important;
+	color: #ECF0F1 !important;
+	border: none !important;
+}
+
+input[type="button"],
+input[type="submit"],
+input[type="submit"]:hover {
+	border: none !important;
+}
+
+.topbar {
+	background: rgba(105, 127, 115, 0.8);
+	border: none;
+	border-top: none;
+	color: white;
+	border-radius: 15px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.topbar li a {
+	color: white !important;
+}
+
+.navbar {
+	background: rgba(164, 111, 97, 0.8);
+	border-bottom: none;
+	font-family: 'Vibur', cursive;
+	color: white;
+	border-radius: 15px;
+}
+
+.navbar li a {
+	color: white !important;
+}
+
+.navbar li a:hover {
+	background: rgba(105, 127, 115, 0.8) !important;
+}
+
+.container.main {
+	background: rgba(193, 192, 187, 0.4);
+	box-shadow: none;
+	border: none;
+	border-radius: 15px;
+}
+
+.col-md-9 {
+	background: none;
+	border-right: none;
+}
+
+.breadcrumb {
+	background: rgba(105, 127, 115, 0.8);
+	color: white !important;
+	border: none;
+}
+
+.breadcrumb .active {
+	color: white;
+}
+
+.alert {
+	background: rgba(105, 127, 115, 0.8);
+	border: none;
+	color: white;
+}
+
+.alert-warning,
+.alert-danger {
+	background: rgba(105, 127, 115, 0.8);
+	color: white;
+	border: none;
+}
+
+div.left {
+	background: rgba(105, 127, 115, 0.8);
+	color: white;
+	border: none;
+}
+
+.panel {
+	background: rgba(193, 192, 187, 0.8) !important;
+	box-shadow: none !important;
+	border: none !important;
+	color: white !important
+}
+
+.progress {
+	background: rgba(227, 222, 210, 0.8);
+	color: white !important;
+}
+
+.progress-div {
+	color: white;
+}
+
+.progress-bar {
+	background: rgba(105, 127, 115, 0.8);
+	border: !important;
+}
+
+.s-chat-message:nth-child(even) {
+	background: rgba(193, 192, 187, 0.8) !important;
+	border: none !important;
+}
+
+.s-chat-message:nth-child(odd) {
+	background: rgba(193, 192, 187, 0.8) !important;
+	border: none !important;
+}
+
+.s-chat-message__pinned {
+	background: rgba(164, 111, 97, 0.8) !important;
+	color: white !important;
+	border: none !important;
+}
+
+.s-chat-message_timestamp {
+	color: black !important;
+}
+
+div#chatMessageContainer {
+	border: none !important;
+}
+
+button#label_currentChannel {
+	border: none !important;
+	background: rgba(164, 111, 97, 0.8) !important;
+}
+
+h1 {
+	color: #ba988c;
+	font-size: 76px;
+	text-align: center;
+	text-shadow: 2px 1px #c1c0bb;
+	font-family: 'Vibur', cursive;
+}
+
+small {
+	color: white !important;
+}
+
+h2 {
+	color: white;
+	font-size: 24px;
+	text-align: center;
+}
+
+.sidebar h3 {
+	font-family: 'Vibur', cursive;
+}
+
+h3 {
+	color: white !important;
+	font-size: 24px !important
+}
+
+.table {
+	background: rgba(193, 192, 187, 0.6);
+	border: none !important;
+	border-collapse: separate;
+	border-radius: 10px;
+}
+
+.top,
+.bottom,
+th {
+	background: rgba(164, 111, 97, 0.8) !important;
+	color: white !important;
+	border-radius: 10px;
+	font-family: 'Vibur', cursive;
+}
+
+.table .left {
+	background: rgba(105, 127, 115, 0.8);
+}
+
+.inner-table .left {
+	background: rgba(105, 127, 115, 0.8) !important;
+}
+
+.inner-table .right {
+	background: rgba(138, 152, 137, 0.8)
+}
+
+.right_odd {
+	background: none !important;
+	border: none !important;
+}
+
+.right_cub {
+	background: none !important;
+}
+
+.item-header {
+	background: rgba(105, 127, 115, 0.8) !important;
+	color: white !important;
+}
+
+.item {
+	background: rgba(227, 222, 210, 0.8) !important;
+	border: none !important;
+}
+
+.sub_menu {
+	background: rgba(227, 222, 210, 0.8) !important;
+}
+
+.sub_menu_item_selected {
+	background: rgba(105, 127, 115, 0.8) !important;
+}
+
+.cave-grid,
+.mound-grid {
+	background: rgba(105, 127, 115, 0.8);
+	border: none !important;
+	color: white !important
+}
+
+a:link,
+a:visited {
+	color: white !important;
+}
+
+table.table.auto {
+	color: black !important;
+}
+
+a:hover {
+	color: #c49486 !important;
+}
+
+input,
+select,
+textarea {
+	background: rgba(227, 222, 210, 0.8) !important;
+	border: none !important;
+	border-radius: 15px;
+	box-shadow: none !important;
+	color: black !important;
+	text-shadow: none !important;
+}
+
+.boxcontainer {
+	background: none;
+	height: auto;
+	padding: 0px;
+	display: flex;
+	justify-content: center
+}
+
+.Box1 {
+	float: left;
+	background: rgba(138, 152, 137, 0.6);
+	color: #393939;
+	padding: 15px;
+	border: 1px solid #d6d1cb;
+	border-radius: 15px;
+	margin: 15px;
+	float: left;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box1:hover {
+	overflow-y: auto;
+}
+
+.Box2 {
+	float: left;
+	background: rgba(138, 152, 137, 0.6);
+	color: #393939;
+	padding: 15px;
+	border: 1px solid #d6d1cb;
+	border-radius: 15px;
+	margin: 15px;
+	float: right;
+	height: 250px;
+	width: 250px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box2:hover {
+	overflow-y: auto;
+}
+
+.Box3 {
+	float: left;
+	background: rgba(138, 152, 137, 0.6);
+	color: #393939;
+	padding: 15px;
+	border: 1px solid #d6d1cb;
+	border-radius: 15px;
+	margin: 15px;
+	float: right;
+	height: 250px;
+	width: 820px;
+	overflow: hidden;
+	margin-bottom: 35px;
+	transition: 1s
+}
+
+.Box3:hover {
+	overflow-y: auto;
+}
+
+.credit {
+	background: rgba(193, 192, 187, 0.6);
+	color: white;
+	padding: 10px;
+	border: none;
+	position: fixed;
+	text-align: center;
+	border-radius: 5px;
+	left: 0px;
+	bottom: 0px;
+	width: 200px;
+	height: 40px;
+	overflow: auto;
+}
+
+div#lion_image {
+	filter: grayscale(70%) opacity(80%);
+	border-radius: 50%;
+	overflow: hidden;
+	margin-top: 16px;
+	margin-left: 4px;
+}
+
+table#player img {
+	filter: grayscale(70%) opacity(80%);
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+::-webkit-scrollbar {
+	width: 7px;
+	height: 0px;
+	border-radius: 15px;
+}
+
+::-webkit-scrollbar-track {
+	background: #c6bcbd;
+	border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #c49486;
+	border-radius: 15px;
+}
+
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
+	content: url('https://puu.sh/CVt4y/24596b12f4.png');
+}
