@@ -60,7 +60,7 @@ input[type="submit"]:hover {
 }
 
 .navbar li a:hover {
-	background: rgba(105, 127, 115, 0.8) !important;
+	background-color: #290628 !important;
 }
 
 .container.main {
@@ -76,7 +76,7 @@ input[type="submit"]:hover {
 }
 
 .breadcrumb {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	color: #ECF0F1 !important;
 	border: none;
 }
@@ -86,33 +86,33 @@ input[type="submit"]:hover {
 }
 
 .alert {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	border: none;
 	color: #ECF0F1;
 }
 
 .alert-warning,
 .alert-danger {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	color: #ECF0F1;
 	border: none;
 }
 
 div.left {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	color: #ECF0F1;
 	border: none;
 }
 
 .panel {
-	background: rgba(193, 192, 187, 0.8) !important;
+	background-color: #290628 !important;
 	box-shadow: none !important;
 	border: none !important;
 	color: #ECF0F1 !important
 }
 
 .progress {
-	background: rgba(227, 222, 210, 0.8);
+	background-color: #290628;
 	color: #ECF0F1 !important;
 }
 
@@ -121,7 +121,7 @@ div.left {
 }
 
 .progress-bar {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	border: !important;
 }
 
@@ -198,15 +198,15 @@ th {
 }
 
 .table .left {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 }
 
 .inner-table .left {
-	background: rgba(105, 127, 115, 0.8) !important;
+	background-color: #290628 !important;
 }
 
 .inner-table .right {
-	background: rgba(138, 152, 137, 0.8)
+	background-color: #290628;
 }
 
 .right_odd {
@@ -219,12 +219,12 @@ th {
 }
 
 .item-header {
-	background: rgba(105, 127, 115, 0.8) !important;
+	background-color: #290628 !important;
 	color: #ECF0F1 !important;
 }
 
 .item {
-	background: rgba(227, 222, 210, 0.8) !important;
+	background-color: #290628 !important;
 	border: none !important;
 }
 
@@ -233,12 +233,12 @@ th {
 }
 
 .sub_menu_item_selected {
-	background: rgba(105, 127, 115, 0.8) !important;
+	background-color: #290628 !important;
 }
 
 .cave-grid,
 .mound-grid {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	border: none !important;
 	color: #ECF0F1 !important
 }
