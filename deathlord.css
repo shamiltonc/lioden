@@ -13,7 +13,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 body {
-	background-color: #7EA16B;
+	background-color: #9E7682;
 	font-family: 'Abel', sans-serif;
 	color: #ECF0F1;
 }
@@ -35,28 +35,28 @@ input[type="submit"]:hover {
 }
 
 .topbar {
-	background: rgba(105, 127, 115, 0.8);
+	background-color: #290628;
 	border: none;
 	border-top: none;
-	color: white;
+	color: #ECF0F1;
 	border-radius: 15px;
-	font-family: 'Quicksand', sans-serif;
+	font-family: 'Abel', sans-serif;
 }
 
 .topbar li a {
-	color: white !important;
+	color: #ECF0F1 !important;
 }
 
 .navbar {
-	background: rgba(164, 111, 97, 0.8);
+	background-color: #290628;
 	border-bottom: none;
 	font-family: 'Vibur', cursive;
-	color: white;
+	color: #ECF0F1;
 	border-radius: 15px;
 }
 
 .navbar li a {
-	color: white !important;
+	color: #ECF0F1 !important;
 }
 
 .navbar li a:hover {
@@ -77,30 +77,30 @@ input[type="submit"]:hover {
 
 .breadcrumb {
 	background: rgba(105, 127, 115, 0.8);
-	color: white !important;
+	color: #ECF0F1 !important;
 	border: none;
 }
 
 .breadcrumb .active {
-	color: white;
+	color: #ECF0F1;
 }
 
 .alert {
 	background: rgba(105, 127, 115, 0.8);
 	border: none;
-	color: white;
+	color: #ECF0F1;
 }
 
 .alert-warning,
 .alert-danger {
 	background: rgba(105, 127, 115, 0.8);
-	color: white;
+	color: #ECF0F1;
 	border: none;
 }
 
 div.left {
 	background: rgba(105, 127, 115, 0.8);
-	color: white;
+	color: #ECF0F1;
 	border: none;
 }
 
@@ -108,16 +108,16 @@ div.left {
 	background: rgba(193, 192, 187, 0.8) !important;
 	box-shadow: none !important;
 	border: none !important;
-	color: white !important
+	color: #ECF0F1 !important
 }
 
 .progress {
 	background: rgba(227, 222, 210, 0.8);
-	color: white !important;
+	color: #ECF0F1 !important;
 }
 
 .progress-div {
-	color: white;
+	color: #ECF0F1;
 }
 
 .progress-bar {
@@ -137,7 +137,7 @@ div.left {
 
 .s-chat-message__pinned {
 	background: rgba(164, 111, 97, 0.8) !important;
-	color: white !important;
+	color: #ECF0F1 !important;
 	border: none !important;
 }
 
@@ -163,11 +163,11 @@ h1 {
 }
 
 small {
-	color: white !important;
+	color: #ECF0F1 !important;
 }
 
 h2 {
-	color: white;
+	color: #ECF0F1;
 	font-size: 24px;
 	text-align: center;
 }
@@ -177,7 +177,7 @@ h2 {
 }
 
 h3 {
-	color: white !important;
+	color: #ECF0F1 !important;
 	font-size: 24px !important
 }
 
@@ -192,7 +192,7 @@ h3 {
 .bottom,
 th {
 	background: rgba(164, 111, 97, 0.8) !important;
-	color: white !important;
+	color: #ECF0F1 !important;
 	border-radius: 10px;
 	font-family: 'Vibur', cursive;
 }
@@ -220,7 +220,7 @@ th {
 
 .item-header {
 	background: rgba(105, 127, 115, 0.8) !important;
-	color: white !important;
+	color: #ECF0F1 !important;
 }
 
 .item {
@@ -240,12 +240,12 @@ th {
 .mound-grid {
 	background: rgba(105, 127, 115, 0.8);
 	border: none !important;
-	color: white !important
+	color: #ECF0F1 !important
 }
 
 a:link,
 a:visited {
-	color: white !important;
+	color: #ECF0F1 !important;
 }
 
 table.table.auto {
@@ -337,7 +337,7 @@ textarea {
 
 .credit {
 	background: rgba(193, 192, 187, 0.6);
-	color: white;
+	color: #ECF0F1;
 	padding: 10px;
 	border: none;
 	position: fixed;
