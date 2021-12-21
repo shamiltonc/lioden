@@ -70,7 +70,7 @@ input[type="submit"]:hover {
 }
 
 .col-md-9 {
-	background-color: #7EA16B;
+	background: none;
 	border-right: none;
 }
 
