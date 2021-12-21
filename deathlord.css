@@ -13,6 +13,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 body {
+	background: none;
 	background-color: #9E7682;
 	font-family: 'Abel', sans-serif;
 	color: #ECF0F1;
@@ -98,9 +99,10 @@ input[type="submit"]:hover {
 }
 
 div.left {
-	background-color: none;
+	background-color: #290628;
 	color: #ECF0F1;
 	border: none;
+	padding: 2px;
 }
 
 .panel {
