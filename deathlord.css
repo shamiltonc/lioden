@@ -101,6 +101,7 @@ div.left {
 	background-color: #290628;
 	color: #ECF0F1;
 	border: none;
+	padding: 2px;
 }
 
 .panel {
@@ -269,7 +270,7 @@ textarea {
 .boxcontainer {
 	background: none;
 	height: auto;
-	padding: 2px;
+	padding: 0px;
 	display: flex;
 	justify-content: center
 }
