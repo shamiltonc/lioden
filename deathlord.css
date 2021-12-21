@@ -64,7 +64,6 @@ input[type="submit"]:hover {
 }
 
 .container.main {
-	background: rgba(193, 192, 187, 0.4);
 	box-shadow: none;
 	border: none;
 	border-radius: 15px;
@@ -126,7 +125,7 @@ div.left {
 }
 
 .s-chat-message:nth-child(even) {
-	background: rgba(193, 192, 187, 0.8) !important;
+	background-color: #395756 !important;
 	border: none !important;
 }
 
@@ -155,7 +154,7 @@ button#label_currentChannel {
 }
 
 h1 {
-	color: #ba988c;
+	color: #290628;
 	font-size: 76px;
 	text-align: center;
 	text-shadow: 2px 1px #c1c0bb;
@@ -182,7 +181,7 @@ h3 {
 }
 
 .table {
-	background: rgba(193, 192, 187, 0.6);
+	background-color: #395756;
 	border: none !important;
 	border-collapse: separate;
 	border-radius: 10px;
@@ -336,7 +335,7 @@ textarea {
 }
 
 .credit {
-	background: rgba(193, 192, 187, 0.6);
+	background-color: #395756;
 	color: #ECF0F1;
 	padding: 10px;
 	border: none;
