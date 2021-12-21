@@ -19,7 +19,7 @@ body {
 }
 
 .center.b {
-	color: #7EA16B !important;
+	color: #ECF0F1 !important;
 }
 
 .feature {
@@ -70,7 +70,7 @@ input[type="submit"]:hover {
 }
 
 .col-md-9 {
-	background: none;
+	background-color: #7EA16B;
 	border-right: none;
 }
 
